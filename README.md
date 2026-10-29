@@ -168,7 +168,7 @@ I'm particularly interested in building products that combine:
 
 <h3>💻 GitHub Profile Stats</h3>
 
-[![rocky0012-lang profile card](https://ghstats.dev/api/profile?username=rocky0012-lang&type=profile&theme=dark)](https://github.com/rowkavdev/GitHub-profile-stats)
+[![rocky0012-lang profile card](https://ghstats.dev/api/profile?username=rocky0012-lang&type=profile&theme=dark)](https://github.com/rocky0012-lang/GitHub-profile-stats)
 
 <div align="center">
 
