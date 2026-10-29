@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Francis Gathua Maina
+# 👋 Hey, I'm Francis
 
 ### Full-Stack Web Developer
 
