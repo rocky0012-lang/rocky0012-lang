@@ -162,64 +162,20 @@ I'm particularly interested in building products that combine:
 
 </p>
 
----
-
-<!-- ======================= CUBEGRAB ======================= -->
-
-## 🚀 What I'm Building
-
-<div align="center">
-
-# 🏠 CubeGrab
-
-### A modern property marketplace
-
-</div>
-
-**CubeGrab** is a property discovery and marketplace platform I'm building to make it easier for people to discover, compare and manage accommodation.
-
-The platform is designed around both **tenants and property owners**, with features covering the complete property-booking journey.
-
-### ✨ Core Features
-
-| Feature | Description |
-| --- | --- |
-| 🏠 Property Discovery | Browse houses, apartments, rooms and short-term stays |
-| 🔎 Search & Filtering | Find properties based on relevant preferences |
-| 👤 Authentication | Secure tenant and owner account flows |
-| 🪪 Verification | Identity and property verification workflows |
-| 💳 Payments | Payment and escrow architecture |
-| 📅 Bookings | Manage upcoming and previous stays |
-| 💬 Messaging | Tenant ↔ owner communication |
-| ❤️ Saved Listings | Save properties for later |
-| 📱 Responsive UI | Designed for desktop, tablet and mobile |
-
-### 🧰 CubeGrab Stack
-
-```text
-Next.js
-TypeScript
-React
-Tailwind CSS
-shadcn/ui
-Supabase
-PostgreSQL
-Supabase Auth
-Supabase Storage
-```
-
 <br /> <div align="center"> <a href="https://github.com/rocky0012-lang/CubeGrab"> <img src="https://img.shields.io/badge/View%20CubeGrab-Repository-22c55e?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
 
 <!-- ======================= FEATURED PROJECTS ======================= -->
 
 <h3>💻 GitHub Profile Stats</h3>
+
+[![rocky0012-lang profile card](https://ghstats.dev/api/profile?username=rocky0012-lang&type=profile&theme=dark)](https://github.com/rowkavdev/GitHub-profile-stats)
+
 <div align="center">
 
   <a href="https://github.com/rocky0012-lang/github-readme-stats"><img alt="Francis's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rocky0012-lang&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=fffudf" height="192px"/></a>
-  <a href="https://github.com/rocky0012-lang/github-readme-stats"><img alt="Francis's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rocky0012-lang&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <img src="https://streak-stats.demolab.com?user=rocky0012-lang&theme=dark&background=010409&hide_border=true" alt="GitHub Contribution Streak" />
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=rocky0012-lang&theme=dark&background=010409&hide_border=true" alt="GitHub Contribution Streak" />
 </div>
 
 <br />
