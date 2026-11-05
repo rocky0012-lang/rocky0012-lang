@@ -173,7 +173,7 @@ I'm particularly interested in building products that combine:
 <div align="center">
 
   <a href="https://github.com/rocky0012-lang/github-readme-stats"><img alt="Francis's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rocky0012-lang&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=fffudf" height="192px"/></a>
-  <img src="https://streak-stats.demolab.com?user=rocky0012-lang&theme=dark&background=010409&hide_border=true" alt="GitHub Contribution Streak" />
+  <!-- <img src="https://streak-stats.demolab.com?user=rocky0012-lang&theme=dark&background=010409&hide_border=true" alt="GitHub Contribution Streak" /> -->
   <br/>
 
 </div>
